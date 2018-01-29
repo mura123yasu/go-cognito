@@ -1,3 +1,5 @@
+### https://raw.github.com/github/gitignore/9385cd828876076f3c11ad1daa9ef4e5df1a5689/Go.gitignore
+
 # Binaries for programs and plugins
 *.exe
 *.dll
@@ -12,3 +14,7 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+vendor/
+node_modules/
+.env
